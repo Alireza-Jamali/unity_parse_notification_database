@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">738972861003</string>
+  <string name="google_storage_bucket" translatable="false">chatpush-93b50.appspot.com</string>
+  <string name="project_id" translatable="false">chatpush-93b50</string>
+  <string name="google_api_key" translatable="false">AIzaSyD6adut52HrMejnHuYbyQn3fUC_lUBY9dE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD6adut52HrMejnHuYbyQn3fUC_lUBY9dE</string>
+  <string name="google_app_id" translatable="false">1:738972861003:android:3aade87fd4ab4828e383ce</string>
+  <string name="default_web_client_id" translatable="false">738972861003-spt7q7gre29ik7590jm6rk63ooujtfh1.apps.googleusercontent.com</string>
+</resources>

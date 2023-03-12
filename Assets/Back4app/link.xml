@@ -1,0 +1,3 @@
+<linker>
+  <assembly fullname="Parse" preserve="all"/>
+</linker>
